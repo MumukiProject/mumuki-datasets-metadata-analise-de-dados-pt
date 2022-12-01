@@ -1,26 +1,26 @@
-> Metadatos basados en los correspondientes al [Dataset Turismo Cruceros](https://catalogodatos.gub.uy/dataset/ministerio-de-turismo-turismo-cruceros) del Ministerio de Turismo de Uruguay.
+> Metadados baseados nos correspondentes ao [Dataset Turismo Cruceros](https://catalogodatos.gub.uy/dataset/ministerio-de-turismo-turismo-cruceros) do Ministério de Turismo do Uruguai.
 > 
-> ⚠ Los mismos han sido ligeramente modificados con fines meramente educativos y
-> no buscan ser un representación fiel del lote de datos original.     
+> ⚠ Os dados foram ligeiramente modificados para fins puramente educacionais e
+> não pretendem ser uma representação fiel do lote original.     
 
-##  Ministerio de Turismo
+##  Ministro do Turismo
 
-# Turismo Cruceros
+# Cruzeiros de Turismo
 
-Conjunto referente a los datos obtenidos de encuestas de cruceros, determinando las principales características de sus viajes, así como también estimar el gasto que realizan durante el mismo. Los datos son referentes a cada temporada a partir del año 2016.
+Conjunto referente aos dados obtidos nas pesquisas de cruzeiros, determinando as principais características de suas viagens, bem como estimando o gasto que realizam durante a mesma. Os dados referem-se a cada temporada a partir de 2016.
 
-La información que se encuentra detallada es sobre; fecha del viaje, nacionalidad del crucerista, puerto de arribo, cantidad de personas en el grupo de viaje, y los distintos gastos realizados entre otros.
+As informações detalhadas são sobre: data da viagem, nacionalidade do passageiro do cruzeiro, porto de chegada, número de pessoas no grupo de viagem, diferentes gastos incorridos, entre outros.
 
 |Campo|Valor|
 |---|---|
 |Identificador|56eab9e5-a47a-4844-87df-3cac44b57d27|
-|Autor|Investigación y Estadísticas Turísticas|
+|Autor|Investigación y Estadísticas Turísticas (Investigação e Estatísticas do Turismo)|
 |Mantenedor|Francisco Gardil|
-|Versión|1.0|
-|Última actualización|18 de octubre de 2022, 1:02 (UTC-03:00)|
-|Creado|12 de mayo de 2021, 14:33 (UTC-03:00)|
-|Licencia|[Licencia de DAG de Uruguay](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf)|
-|Frecuencia de Actualización|Anual|
+|Versão|1.0|
+|Última atualização|18 de outubro de 2022, 1:02 (UTC-03:00)|
+|Criado|12 de maio de 2021, 14:33 (UTC-03:00)|
+|Licença|[Licença DAG do Uruguai](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf)|
+|Freqüência de Atualização|Anual|
 
 # Metadatos
 
