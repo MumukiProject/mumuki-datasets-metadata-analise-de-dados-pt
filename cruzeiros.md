@@ -22,117 +22,117 @@ As informações detalhadas são sobre: data da viagem, nacionalidade do passage
 |Licença|[Licença DAG do Uruguai](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf)|
 |Freqüência de Atualização|Anual|
 
-# Metadatos
+# Metadados
 
 ```json 
 {
-  "titulo": "Recursos de Metadatos",
-  "descripcion": "Descripcion Metadatos",
+  "title": "Recursos de metadados",
+  "description": "Metadados da descrição",
   "atributos": [
       {
-          "descripcion": "Es el código identificatorio de los Cruceros",
-          "informacionAdicional": "",
-          "tipoDeDato": "Numeric",
-          "recursoRelacionado": "",
-          "nombreDeAtributo": "cruise_id"
+          "description": "É o código de identificação dos Cruzeiros",
+          "informação adicional": "",
+          "tipo de dado": "Numérico",
+          "Recurso Relacionado": "",
+          "attributeName": "cruise_id"
       },
       {
-          "descripcion": "Es el código de la nacionalidad del entrevistado",
-          "informacionAdicional": "",
-          "tipoDeDato": "Numeric",
-          "recursoRelacionado": "",
-          "nombreDeAtributo": "country_id"
+          "descrição": "É o código da nacionalidade do entrevistado",
+          "informação adicional": "",
+          "tipo de dado": "Numérico",
+          "Recurso Relacionado": "",
+          "attributeName": "country_id"
       },
       {
-          "descripcion": "Es la Nacionalidad del entrevistado",
-          "informacionAdicional": "",
-          "tipoDeDato": "String",
-          "recursoRelacionado": "",
-          "nombreDeAtributo": "country"
+          "descrição": "É a Nacionalidade do entrevistado",
+          "informação adicional": "",
+          "tipo de dados": "String",
+          "Recurso Relacionado": "",
+          "attributeName": "country"
       },
       {
-          "descripcion": "Fecha realizada la encuesta",
-          "informacionAdicional": "",
-          "tipoDeDato": "Date",
-          "recursoRelacionado": "",
-          "nombreDeAtributo": "date"
+          "descrição": "Data da pesquisa",
+          "informação adicional": "",
+          "tipo de dados": "Data",
+          "Recurso Relacionado": "",
+          "attributeName": "date"
       },
       {
-          "descripcion": "Es el código de la fecha de realizada la encuesta",
-          "informacionAdicional": "",
-          "tipoDeDato": "Numeric",
-          "recursoRelacionado": "",
-          "nombreDeAtributo": "date_id"
+          "descrição": "É o código da data da pesquisa",
+          "informação adicional": "",
+          "tipo de dado": "Numérico",
+          "Recurso Relacionado": "",
+          "attributeName": "date_id"
       },
       {
-          "descripcion": "Es el código identificatorio del puerto de arribo del crucerista",
-          "informacionAdicional": "",
-          "tipoDeDato": "Numeric",
-          "recursoRelacionado": "",
-          "nombreDeAtributo": "port_id"
+          "description": "É o código de identificação do porto de chegada do passageiro do cruzeiro",
+          "informação adicional": "",
+          "tipo de dado": "Numérico",
+          "Recurso Relacionado": "",
+          "attributename": "port_id"
       },
       {
-          "descripcion": "Es el Puerto de arribo del crucerista",
-          "informacionAdicional": "",
-          "tipoDeDato": "String",
-          "recursoRelacionado": "",
-          "nombreDeAtributo": "port"
+          "descrição": "É o porto de chegada do passageiro do cruzeiro",
+          "informação adicional": "",
+          "tipo de dados": "String",
+          "Recurso Relacionado": "",
+          "attributeName": "port"
       },
       {
-          "descripcion": "Cantidad de Personas en cada grupo",
-          "informacionAdicional": "",
-          "tipoDeDato": "Numeric",
-          "recursoRelacionado": "",
-          "nombreDeAtributo": "total_people"
+          "descrição": "Número de pessoas em cada grupo",
+          "informação adicional": "",
+          "tipo de dado": "Numérico",
+          "Recurso Relacionado": "",
+          "attributeName": "total_people"
       },
       {
-          "descripcion": "Cantidad de vistias anteriores",
-          "informacionAdicional": "",
-          "tipoDeDato": "Numeric",
-          "recursoRelacionado": "",
-          "nombreDeAtributo": "visits_amount"
+          "description": "Número de visualizações anteriores",
+          "informação adicional": "",
+          "tipo de dado": "Numérico",
+          "Recurso Relacionado": "",
+          "attributename": "visits_amount"
       },
       {
-          "descripcion": "Gasto total, el valor de este gasto es medido en Dólares Americanos",
-          "informacionAdicional": "",
-          "tipoDeDato": "Numeric",
-          "recursoRelacionado": "",
-          "nombreDeAtributo": "total_expenses"
+          "descrição": "Despesa total, o valor desta despesa é medido em dólares americanos",
+          "informação adicional": "",
+          "tipo de dado": "Numérico",
+          "Recurso Relacionado": "",
+          "attributeName": "total_expenses"
       },
       {
-          "descripcion": "Gasto paenra Tours, el valor de este gasto es medido en Dólares Americanos",
-          "informacionAdicional": "",
-          "tipoDeDato": "Numeric",
-          "recursoRelacionado": "",
-          "nombreDeAtributo": "tours_expenses"
+          "descrição": "Despesa com Passeios, o valor desta despesa é medido em Dólares Americanos",
+          "informação adicional": "",
+          "tipo de dado": "Numérico",
+          "Recurso Relacionado": "",
+          "attributeName": "tours_expenses"
       },
       {
-          "descripcion": "Gasto en Alimentación, el valor de este gasto es medido en Dólares Americanos",
-          "informacionAdicional": "",
-          "tipoDeDato": "Numeric",
-          "recursoRelacionado": "",
-          "nombreDeAtributo": "feed_expenses"
+          "descrição": "Despesas com Alimentação, o valor desta despesa é medido em Dólares Americanos",
+          "informação adicional": "",
+          "tipo de dado": "Numérico",
+          "Recurso Relacionado": "",
+          "attributeName": "feed_expenses"
       },
       {
-          "descripcion": "Gasto en Transporte, el valor de este gasto es medido en Dólares Americanos",
-          "informacionAdicional": "",
-          "tipoDeDato": "Numeric",
-          "recursoRelacionado": "",
-          "nombreDeAtributo": "transport_expenses"
+          "descrição": "Despesa de transporte, o valor desta despesa é medido em dólares americanos",
+          "informação adicional": "",
+          "tipo de dado": "Numérico",
+          "Recurso Relacionado": "",
+          "attributeName": "transport_expenses"
       },
       {
-          "descripcion": "Gasto en compras, el valor de este gasto es medido en Dólares Americanos",
-          "informacionAdicional": "",
-          "tipoDeDato": "Numeric",
-          "recursoRelacionado": "",
-          "nombreDeAtributo": "shopping_expenses"
+          "descrição": "Gasto de compra, o valor desse gasto é medido em dólares americanos",
+          "informação adicional": "",
+          "tipo de dado": "Numérico",
+          "Recurso Relacionado": "",
+          "attributeName": "shopping_expenses"
       },
       {
-          "descripcion": "Otros gastos, el valor de este gasto es medido en Dólares Americanos",
-          "informacionAdicional": "",
-          "tipoDeDato": "Numeric",
-          "recursoRelacionado": "",
-          "nombreDeAtributo": "other_expenses"
+          "descrição": "Outras despesas, o valor desta despesa é medido em dólares americanos",
+          "informação adicional": "",
+          "tipo de dado": "Numérico",
+          "Recurso Relacionado": "",
+          "attributeName": "other_expenses"
       }
   ]
 }
