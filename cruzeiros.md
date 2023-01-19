@@ -20,7 +20,7 @@ As informações detalhadas são sobre: data da viagem, nacionalidade do passage
 |Última atualização|18 de outubro de 2022, 1:02 (UTC-03:00)|
 |Criado|12 de maio de 2021, 14:33 (UTC-03:00)|
 |Licença|[Licença DAG do Uruguai](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf)|
-|Freqüência de Atualização|Anual|
+|Frequência de Atualização|Anual|
 
 # Metadados
 
