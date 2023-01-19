@@ -7,7 +7,7 @@
 
 # Cruzeiros de Turismo
 
-Conjunto referente aos dados obtidos nas pesquisas de cruzeiros, determinando as principais características de suas viagens, bem como estimando os gastos que realizam durante as mesmas Os dados referem-se a cada temporada a partir de 2016.
+Conjunto referente aos dados obtidos nas pesquisas de cruzeiros, determinando as principais características de suas viagens, bem como estimando os gastos que realizam durante as mesmas. Os dados referem-se a cada temporada a partir de 2016.
 
 As informações detalhadas são sobre: data da viagem, nacionalidade do passageiro do cruzeiro, porto de chegada, número de pessoas no grupo de viagem, diferentes gastos incorridos, entre outros.
 
