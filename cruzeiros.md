@@ -3,7 +3,7 @@
 > ⚠ Os dados foram ligeiramente modificados para fins puramente educacionais e
 > não pretendem ser uma representação fiel do lote original.     
 
-##  Ministro do Turismo
+##  Ministério do Turismo
 
 # Cruzeiros de Turismo
 
